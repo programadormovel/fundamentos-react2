@@ -1,0 +1,33 @@
+.MegaFuncao {
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.MegaFuncao input {
+    font-size: 1.4rem;
+    width: 60px;
+}
+
+.MegaFuncao button {
+    margin: 15px;
+    height: 60px;
+    width: 20%;
+    border-radius: 20%;
+    background-color: blue;
+    color: #fff;
+    font-size: 1.4rem;
+    padding: 2px;
+}
+
+.MegaFuncao table {
+    border: 5px solid yellowgreen;
+    border-radius: 8%;
+}
+
+.MegaFuncao tr {
+    border: 2px solid black;
+
+}

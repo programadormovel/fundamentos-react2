@@ -1,0 +1,15 @@
+.MegaLeitao input {
+    font-size: 1.4rem;
+    width: 60px;
+}
+
+.MegaLeitao button {
+    margin: 15px;
+    height: 60px;
+    width: 30%;
+    border-radius: 20%;
+    background-color: blue;
+    color: #fff;
+    font-size: 1.4rem;
+    padding: 4px;
+}
